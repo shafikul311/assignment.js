@@ -3,5 +3,5 @@ function budgetCalculator( clock, phone, laptop ){
     return priceCalculation ;
 }
 
-var totalPrice = budgetCalculator(20, 20, 20);
+var totalPrice = budgetCalculator(2, 2, 2);
 console.log(totalPrice);
